@@ -14,4 +14,3 @@ anaconda_projects/
 *.log
 .env
 *.nbconvert.ipynb
-screenshots/
