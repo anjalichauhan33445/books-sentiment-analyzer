@@ -33,6 +33,7 @@ The project shows text preprocessing, regular expression-based chapter extractio
 ---
 
 ## Project Structure
+```
 project-analyze-eBooks/
 │
 ├── miracle_in_the_andes.txt
@@ -41,7 +42,7 @@ project-analyze-eBooks/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## Dataset
