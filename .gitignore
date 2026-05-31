@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.virtual_documents/
+anaconda_projects/
+*.log
+.env
+*.nbconvert.ipynb
+screenshots/
